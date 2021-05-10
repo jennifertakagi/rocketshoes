@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "TÊNIS ULTRABOOST OG",
+      "price": 1099.99,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "TÊNIS SUPERSLEEK 72",
+      "price": 799.99,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "TÊNIS NITE JOGGER",
+      "price": 999.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "TÊNIS NMD_R1",
+      "price": 699.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "TÊNIS SUPERSTAR SLIP-ON",
+      "price": 299.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "TÊNIS PUREMOTION ADAPT",
+      "price": 219.9,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+    }
+  ]
+}
